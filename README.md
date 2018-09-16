@@ -1,1 +1,1 @@
-# kikagaku_training
+# kika_training
